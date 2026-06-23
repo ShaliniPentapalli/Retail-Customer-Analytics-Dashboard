@@ -1,7 +1,5 @@
 # Retail-Customer-Analytics-Dashboard
 
-# Retail Sales & Customer Insights Dashboard
-
 ## Overview
 This project analyzes the sales and customer data of a fictional retail superstore to uncover actionable insights. It demonstrates the full data analysis lifecycle: from data cleaning and transformation, to SQL-based querying, and ultimately to powerful visual storytelling using Power BI dashboards.
 
